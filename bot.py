@@ -3,7 +3,8 @@ import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ⚠️ እዚህ ጋ ከ @BotFather ያገኘኸውን አዲሱን ቶከን ብቻ በነጠላ ሰረዞቹ (' ') መሃል ተካው!
-BOT_TOKEN = '8705349467:AAEcCFlo8UQjnzhYDSwl7jKFyIUbPoZKA08'
+BOT_TOKEN = 'BOT_TOKEN = '8705349467:AAE7XO-Kj6U48HkeFMq6CtEbRbkkeRyIHD4'
+'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 players_db = {}
